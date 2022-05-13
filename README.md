@@ -7,3 +7,4 @@ each player takes a turn to input their coordinates. These are instructions stat
   You will be asked for a coordinate. These range from a, b, c and 0, 1, 2 
   The letters correspond with the x-axis, and the numbers correspond with the y
   Simply enter the letter and the number you wish to place your piece with no spaces or commas inbetween (e.g a1) 
+The players will decide who wins in this programme
